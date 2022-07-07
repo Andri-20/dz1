@@ -1,0 +1,25 @@
+h1{
+    background: #94398b;
+    color: #b5c1ce;
+    text-align: center;
+}
+h2 {
+    background: #207979;
+}
+a{
+    color: #1c334b;
+}
+p{
+    background: #c59e62;
+    color: #ded7bf;
+    width: 400px;
+}
+li{
+    background: #508118;
+    color: #25231b;
+    list-style: none;
+    width: 300px;
+}
+img{
+    width: 300px;
+}
